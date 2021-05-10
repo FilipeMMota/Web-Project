@@ -1,0 +1,42 @@
+#cont2 {
+    display:none;
+}
+.tabelafilmes {
+   display:none
+
+}
+.titulo {
+   text-align:center;
+   margin-top:10px;
+}
+
+.ativos {
+   border:1px solid;
+   margin-top: 50px;
+}
+
+.padding_geral
+{
+   padding: 5px 5px 5px 10px;
+}
+
+.ativos2 {
+   border-bottom: 1px solid;
+
+}
+.direita {
+   text-align: right;
+   display: inline-block;
+   width: 50%;
+}
+.esquerda {
+   display: inline-block;
+   width: 49%;
+}
+.direitaCrud{
+   display: inline-block;
+}
+.esquerdaCrud{
+   display: inline-block;
+   width: 68%;
+}

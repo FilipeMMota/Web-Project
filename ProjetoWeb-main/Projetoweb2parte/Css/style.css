@@ -1,0 +1,369 @@
+body {
+    background-color: #31343F;
+}
+.logo {
+    height:72px;
+    width:135px;
+}
+.card-nova
+{
+    margin-top: 50px;
+}
+
+.margin
+{
+    margin-top: 50px;
+}
+
+#series
+{
+    display: none;
+}
+
+#movies
+{
+    display: none;
+}
+
+#realizadores
+{
+    display: none;
+}
+
+#atores
+{
+    display: none;
+}
+
+#estudios
+{
+    display: none;
+}
+
+#favoritos
+{
+    display: none;
+}
+
+#comlogin
+{
+    display: none;
+}
+
+.card-img-top{
+
+    height: 33rem;
+    width: 100%;
+}
+
+#destaque {
+    text-align: center;
+    margin-top: 50px;
+    color: #ffffff;
+}
+#fav_header {
+    text-align: center;
+    margin-top: 50px;
+    color: #ffffff;
+}
+
+#brevemente {
+    text-align: center;
+    margin-top: 50px;
+    color: #ffffff;
+
+}
+
+
+.carousel-inner {
+    margin-top: 50px;
+
+
+}
+.carousel-item {
+    width:1200px;
+    height:600px;
+}
+
+#username {
+    margin-right:15px;
+
+}
+
+#password {
+    margin-right: 15px;
+}
+
+#bell {
+    margin-bottom: 10px;
+}
+
+#button {
+    background-color:#ffffff;
+}
+
+
+footer{
+    position: absolute;
+    background: #343A40;
+    width: 100%;
+    padding-top: 40px;
+    color: #ffffff;
+    margin-top: 100px;
+}
+.footer-content{
+    display: flex;
+    background: #343A40;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.footer-content h3{
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 40px;
+}
+.footer-content p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+.socials{
+    padding:0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px 0 50px 0;
+}
+
+.socials li{
+    margin: 0 10px;
+}
+
+.socials a{
+    color: #ffffff;
+}
+
+.socials a i{
+    font-size: 20px;
+}
+
+.socials a:hover i{
+    color: #5F9EA0;
+}
+
+.footer-bottom{
+    background: #5F9EA0;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.footer-bottom p{
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.log{
+    margin-right: 5px;
+}
+
+#buttonRemoveJojo{
+    display: none;
+}
+
+#buttonRemoveShowman{
+    display: none;
+}
+
+#buttonRemoveInception{
+    display: none;
+}
+
+#buttonRemoveKiminonawa{
+    display: none;
+}
+
+#buttonRemoveJoker{
+    display: none;
+}
+
+#buttonRemoveAvengers{
+    display: none;
+}
+
+#buttonRemoveParasite{
+    display: none;
+}
+
+#buttonRemove2012{
+    display: none;
+}
+
+#buttonRemoveAvatar{
+    display: none;
+}
+
+#buttonRemoveDemon{
+    display: none;
+}
+
+#buttonRemovePeaky{
+    display: none;
+}
+
+#buttonRemoveBB{
+    display: none;
+}
+
+#buttonRemoveVikings{
+    display: none;
+}
+
+#buttonRemoveGot{
+    display: none;
+}
+
+#buttonRemoveWitcher{
+    display: none;
+}
+
+#buttonRemoveBlack{
+    display: none;
+}
+
+#buttonRemoveFriends{
+    display: none;
+}
+
+#buttonRemoveSimp{
+    display: none;
+}
+
+#buttonRemoveVince{
+    display: none;
+}
+
+#buttonRemoveNolan{
+    display: none;
+}
+
+#buttonRemoveknight{
+    display: none;
+}
+
+#buttonRemoveSteven{
+    display: none;
+}
+
+#buttonRemoveQuentin{
+    display: none;
+}
+
+#buttonRemoveGeorge{
+    display: none;
+}
+
+#buttonRemoveBong{
+    display: none;
+}
+
+#buttonRemoveRoland{
+    display: none;
+}
+
+#buttonRemoveLucas{
+    display: none;
+}
+
+#buttonRemoveCaprio{
+    display: none;
+}
+
+#buttonRemoveCillian{
+    display: none;
+}
+
+#buttonRemoveTom{
+    display: none;
+}
+
+#buttonRemoveKit{
+    display: none;
+}
+
+#buttonRemoveJoaquin{
+    display: none;
+}
+
+#buttonRemoveBryan{
+    display: none;
+}
+
+#buttonRemoveScarlet{
+    display: none;
+}
+
+#buttonRemoveHugh{
+    display: none;
+}
+
+#buttonRemoveKat{
+    display: none;
+}
+
+#buttonRemovepar{
+    display: none;
+}
+
+#buttonRemoveWB{
+    display: none;
+}
+
+#buttonRemove20{
+    display: none;
+}
+
+#buttonRemovePixar{
+    display: none;
+}
+
+#buttonRemoveDisney{
+    display: none;
+}
+
+#buttonRemoveUP{
+    display: none;
+}
+
+#perfil
+{
+    display: none;
+}
+
+.direita {
+    text-align: right;
+    display: inline-block;
+    width: 50%;
+}
+
+.esquerda {
+    display: inline-block;
+    width: 49%;
+}
+
+.perfil_button{
+    font-size: 150%;
+}
+
+#per_header {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    color: #ffffff;
+}
